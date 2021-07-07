@@ -1,0 +1,167 @@
+[
+  {
+    "ID": 1585421464,
+    "Brand": "Random House",
+    "ProductName": "The artist's way",
+    "GraphicName": "cover_1585421464",
+    "CostPrice": 20,
+    "MSRP": 29.99,
+    "QtyOnHand": 5,
+    "QtyOnBackOrder": 1,
+    "Description": "A spiritual path to higher creativity, this book brings insight and recovery to struggling artists."
+  },
+  {
+    "ID": 1494939393,
+    "Brand": "Random House",
+    "ProductName": "The Bench",
+    "GraphicName": "cover_1494939393",
+    "CostPrice": 10,
+    "MSRP": 14.99,
+    "QtyOnHand": 10,
+    "QtyOnBackOrder": 15,
+    "Description": "In The Bench, Meghan, The Duchess of Sussex, touchingly captures the evolving and expanding relationship between father and son and reminds us of the many ways that love can take shape and be expressed in a modern family."
+  },
+  {
+    "ID": 1894848484,
+    "Brand": "Random House",
+    "ProductName": "Build Your House Around My Body",
+    "GraphicName": "cover_1894848484",
+    "CostPrice": 10,
+    "MSRP": 14.99,
+    "QtyOnHand": 15,
+    "QtyOnBackOrder": 10,
+    "Description": "Part puzzle, part revenge tale, part ghost story, this kaleidoscopic novel spins half a century of Vietnamese history and folklore into a “brilliant, sweeping epic that swaps spirits and sheds time like snakeskin” (Paul Tremblay, author of A Head Full of Ghosts and Survivor Song)."
+  },
+  {
+    "ID": 1495949444,
+    "Brand": "Random House",
+    "ProductName": "Malibu Rising",
+    "GraphicName": "cover_1495949444",
+    "CostPrice": 15,
+    "MSRP": 19.99,
+    "QtyOnHand": 10,
+    "QtyOnBackOrder": 10,
+    "Description": "Four famous siblings throw an epic party to celebrate the end of the summer. But over the course of twenty-four hours, their lives will change forever."
+  },
+  {
+    "ID": 1093848484,
+    "Brand": "Random House",
+    "ProductName": "Yearbook",
+    "GraphicName": "cover_1093848484",
+    "CostPrice": 25,
+    "MSRP": 29.99,
+    "QtyOnHand": 10,
+    "QtyOnBackOrder": 15,
+    "Description": "A collection of funny personal essays from one of the writers of Superbad and Pineapple Express and one of the producers of The Disaster Artist, Neighbors, and The Boys."
+  },
+  {
+    "ID": 1851353454,
+    "Brand": "HarperCollins",
+    "ProductName": "Ultralearning",
+    "GraphicName": "cover_1851353454",
+    "CostPrice": 15,
+    "MSRP": 19.99,
+    "QtyOnHand": 10,
+    "QtyOnBackOrder": 15,
+    "Description": "Master hard skills, outsmart the competition, accelerate your career"
+  },
+  {
+    "ID": 1949484848,
+    "Brand": "HarperCollins",
+    "ProductName": "The Case of the Murderous Dr. Cream",
+    "GraphicName": "cover_1949484848",
+    "CostPrice": 30,
+    "MSRP": 34.99,
+    "QtyOnHand": 10,
+    "QtyOnBackOrder": 10,
+    "Description": "In this fascinating book, Dean Jobb reveals how bungled investigations, corrupt officials and failed prosecutions allowed Cream to evade detection or freed him to kill, again and again."
+  },
+  {
+    "ID": 1345782345,
+    "Brand": "HarperCollins",
+    "ProductName": "THE WARSAW ORPHAN: A WWII NOVEL",
+    "GraphicName": "cover_1345782345",
+    "CostPrice": 55,
+    "MSRP": 59.99,
+    "QtyOnHand": 25,
+    "QtyOnBackOrder": 10,
+    "Description": "From Nazi occupation to the threat of a communist regime, The Warsaw Orphan is the unforgettable story of Elzbieta and Roman's perilous attempt to reclaim the love and life they once knew."
+  },
+  {
+    "ID": 1492353254,
+    "Brand": "HarperCollins",
+    "ProductName": "THE SECRET KEEPER OF JAIPUR: A NOVEL",
+    "GraphicName": "cover_1492353254",
+    "CostPrice": 10,
+    "MSRP": 14.99,
+    "QtyOnHand": 10,
+    "QtyOnBackOrder": 10,
+    "Description": "In New York Times bestselling author Alka Joshi’s intriguing new novel, henna artist Lakshmi arranges for her protégé, Malik, to intern at the Jaipur Palace in this tale rich in character, atmosphere, and lavish storytelling."
+  },
+  {
+    "ID": 1234587235,
+    "Brand": "HarperCollins",
+    "ProductName": "The Comfort Book",
+    "GraphicName": "cover_1234587235",
+    "CostPrice": 15,
+    "MSRP": 19.99,
+    "QtyOnHand": 10,
+    "QtyOnBackOrder": 10,
+    "Description": "The Comfort Book is a collection of little islands of hope, a gathering of consolations and stories that give us new ways of seeing ourselves and the world."
+  },
+  {
+    "ID": 1234235423,
+    "Brand": "Tor",
+    "ProductName": "Now We Paint Worlds",
+    "GraphicName": "cover_1234235423",
+    "CostPrice": 25,
+    "MSRP": 29.99,
+    "QtyOnHand": 5,
+    "QtyOnBackOrder": 15,
+    "Description": "Orna, a representative of a universe-wide trade union, undergoes a drastic change in perspective while investigating the disappearance of three planets and their inhabitants on a newly terraformed world."
+  },
+  {
+    "ID": 1489484844,
+    "Brand": "Tor",
+    "ProductName": "The Red Mother",
+    "GraphicName": "cover_1489484844",
+    "CostPrice": 5,
+    "MSRP": 9.99,
+    "QtyOnHand": 10,
+    "QtyOnBackOrder": 10,
+    "Description": "Auga, a wandering sorcerer, follows his brother’s fate-thread into the village of Ormsfjoll, where he expects to deliver good news and continue his travels. What he doesn’t anticipate is that to meet his brother he must first contend with the truth at the heart of the volcano that wreaks havoc on Ormsfjoll."
+  },
+  {
+    "ID": 1234524223,
+    "Brand": "Tor",
+    "ProductName": "The Far Side of the Universe",
+    "GraphicName": "cover_1234524223",
+    "CostPrice": 10,
+    "MSRP": 14.99,
+    "QtyOnHand": 15,
+    "QtyOnBackOrder": 10,
+    "Description": "When young Ira arrives for her appointment, she is prepared to be transported to The Gateway to Heaven, 6,070 light years away. But the technicians shepherding her through the process fear there’s more to it than what’s advertised."
+  },
+  {
+    "ID": 1452452452,
+    "Brand": "Tor",
+    "ProductName": "An Easy Job",
+    "GraphicName": "cover_1452452452",
+    "CostPrice": 20,
+    "MSRP": 24.99,
+    "QtyOnHand": 10,
+    "QtyOnBackOrder": 10,
+    "Description": "Graff’s official role is muscle for the Visigoth – but his personal mission is internally cataloguing all of his experiences to relay to the other beings from his home planet when they cross paths. His professional life rarely clashes with his identity, but when he realizes his newest job is to take down one of his kind, everything becomes a bit less simple."
+  },
+  {
+    "ID": 1235235235,
+    "Brand": "Tor",
+    "ProductName": "Annie Without Crow",
+    "GraphicName": "cover_1235235235",
+    "CostPrice": 20,
+    "MSRP": 24.99,
+    "QtyOnHand": 10,
+    "QtyOnBackOrder": 10,
+    "Description": "An act of indiscretion from her immortal trickster companion sends Annie and her league of ladies-in-waiting on a time-defying adventure that becomes the inspiration for William Shakespeare."
+  }
+]
